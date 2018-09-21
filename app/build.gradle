@@ -27,15 +27,15 @@ android {
 
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.android.support:appcompat-v7:26.0.2'
-    compile 'com.github.bumptech.glide:glide:4.3.1'
-    compile 'com.google.code.gson:gson:2.6.2'
-    compile 'com.google.gdata:core:1.47.1'
-    compile 'com.github.alamkanak:android-week-view:1.2.6'
-    compile 'com.he5ed.lib:volley:android-cts-5.1_r4'
-    compile 'com.squareup.retrofit:retrofit:1.9.0'
-    compile 'com.googlecode.json-simple:json-simple:1.1'
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:26.0.2'
+    implementation 'com.github.bumptech.glide:glide:4.3.1'
+    implementation 'com.google.code.gson:gson:2.6.2'
+    implementation 'com.google.gdata:core:1.47.1'
+    implementation 'com.github.alamkanak:android-week-view:1.2.6'
+    implementation 'com.he5ed.lib:volley:android-cts-5.1_r4'
+    implementation 'com.squareup.retrofit:retrofit:1.9.0'
+    implementation 'com.googlecode.json-simple:json-simple:1.1'
 
 
     implementation fileTree(include: ['*.jar'], dir: 'libs')
