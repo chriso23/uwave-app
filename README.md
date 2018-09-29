@@ -1,10 +1,15 @@
 # uwave-android-app
 ---
 
+- **Website:** https://chrisoung1.github.io/uwave-android-app
+
+
+## Project description
+——-
+
 - **Client:** [UWaveRadio](uwave.fm)
 - **Duration:** January 2018–June 2018
-- **Deliverable:** Android App (minimum viable product)
-- **Website:** https://chrisoung1.github.io/uwave-android-app
+- **Deliverable:** Android App MVP (minimum viable product)
 
 
 ## Summary
