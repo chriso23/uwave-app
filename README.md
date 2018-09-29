@@ -19,3 +19,11 @@ This project was a six-month effort to help the <a style="text-decoration-line: 
 
 The UWaveRadio app is an Android app solution that encompasses unique music and talk show streaming services. The app allows any student, faculty, and staff member to contribute to UWave Radio's expanding content library, as well as the promotion of local musicians, bands, and community events.
 
+## Contributors
+---
+
+- Chris 
+- Etienne 
+- Leonard
+- Torin
+
