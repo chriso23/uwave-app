@@ -5,7 +5,7 @@
 
 
 ## Project description
-——-
+---
 
 - **Client:** [UWaveRadio](uwave.fm)
 - **Duration:** January 2018–June 2018
