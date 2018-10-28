@@ -24,9 +24,9 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 
 ## Design Process
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSisZ7Zm8NDqyQRadF16ZC8DYMoUIoWQwUMAWvGMUxrWz9ciRj-tCZvNTovgWkZin3XGPTRzrbIqt2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="750" height="390" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHrR_hMKWqeVFWRrEfHaYBRjDf_sbfruLtcaAzsHJpPPESqksKjv96UF0gfMXvi657U_IflOazLZxi/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## App trailer and demo
+## Demo
 
 - [UWave Radio App: Trailer Video](https://www.youtube.com/watch?v=MfDhygftfd4)
 
