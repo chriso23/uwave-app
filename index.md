@@ -5,7 +5,8 @@ This project was a six-month effort to help the [UWave Radio](uwave.fm) organiza
 
 The UWaveRadio app is an android prototype that aims at strengthening social engagement within a higher education community. The app encompasses unique music and talk show streaming services inspired by a variety of user research data. Ultimately, the app is designed to allow any UW student, faculty, and staff member to contribute to UWave Radio's expanding content library, as well as the promotion of local musicians, bands, and community events.
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="750" height="390" src="http://www.youtube.com/embed/iIWvTg5wc0I" frameborder="0" allowFullScreen></iframe>
+<iframe width="100%" height="569" src="https://www.youtube.com/embed/MfDhygftfd4">
+</iframe>
 
 
 ## Project description
