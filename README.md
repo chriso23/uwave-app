@@ -11,7 +11,7 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 [UWave Radio App: Trailer Video](https://www.youtube.com/watch?v=MfDhygftfd4)
 
 
-## Project description
+## Project Description
 
 - Client: [UWave Radio](uwave.fm)
 - Source code: [GitHub Repository](https://github.com/chrisoung1/uwave-android-app)
@@ -20,21 +20,16 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 - Git, GitHub, Firebase, Android Studio, Java, XML, JavaScript, JSON, and REST API
 
 
-## Features
-
-- Live streaming
-- Live chat 
-- Newsfeed
-- Get involved
-- Archives
-
-
-## Design Process
+## The Design Process
 
 - [UWave Radio: Engaging a Community](https://docs.google.com/presentation/d/e/2PACX-1vRHrR_hMKWqeVFWRrEfHaYBRjDf_sbfruLtcaAzsHJpPPESqksKjv96UF0gfMXvi657U_IflOazLZxi/pub?start=false&loop=false&delayms=3000)
 
+## Video Demo
 
-## Authors
+- [UWave Radio App: Trailer Video](https://www.youtube.com/watch?v=MfDhygftfd4)
+
+
+## Contributors
 
 - Chris Oung 
 - Etienne Sotelo
