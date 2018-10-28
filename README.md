@@ -1,4 +1,4 @@
-# uwave-android-app
+# UWaveRadio Android App
 
 *A mobile strategy to increase student engagement, retention, and academic achievement at the University of Washington Bothell.*
 
@@ -12,7 +12,7 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 ## Project description
 
 - Client: [UWave Radio](uwave.fm)
-- GitHub repository: [https://github.com/chrisoung1/uwave-android-app]()
+- GitHub repository: [https://github.com/chrisoung1/uwave-android-app/tree/master]()
 - Duration: January 2018–June 2018
 - Deliverable: Functional Android app prototype
 - Technologies: Git, GitHub, Firebase, Android Studio, Java, XML, JavaScript, JSON, and REST API
