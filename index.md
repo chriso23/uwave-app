@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# uwave-android-app
 
-You can use the [editor on GitHub](https://github.com/chrisoung1/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*A mobile strategy to increase student engagement, retention, and academic achievement at the University of Washington Bothell.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary
 
-### Markdown
+This project was a six-month effort to help the [UWave Radio](uwave.fm) organizationâ€”a local radio station located at the University of Washington Bothellâ€”reach a wider audience of listeners and participants at the UW Bothell campus. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The UWaveRadio app is an android prototype that aims at strengthening social engagement within a higher education community. The app encompasses unique music and talk show streaming services inspired by a variety of user research data. Ultimately, the app is designed to allow any UW student, faculty, and staff member to contribute to UWave Radio's expanding content library, as well as the promotion of local musicians, bands, and community events.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Project description
 
-- Bulleted
-- List
+- Client: [UWave Radio](uwave.fm)
+- GitHub repository: [https://github.com/chrisoung1/uwave-android-app]()
+- Duration: January 2018â€“June 2018
+- Deliverable: Functional Android app prototype
+- Technologies: Git, GitHub, Firebase, Android Studio, Java, XML, JavaScript, JSON, and REST API
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Features
 
-[Link](url) and ![Image](src)
-```
+- Live streaming
+- Live chat 
+- Newsfeed
+- Get involved
+- Archives
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## App Trailer Video
 
-### Jekyll Themes
+<iframe width="100% " height="569" src="https://www.youtube.com/embed/MfDhygftfd4 " frameborder="0 " allow="autoplay; encrypted-media " allowfullscreen></iframe>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrisoung1/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Design Process Presentation
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHrR_hMKWqeVFWRrEfHaYBRjDf_sbfruLtcaAzsHJpPPESqksKjv96UF0gfMXvi657U_IflOazLZxi/embed?start=true&loop=true&delayms=5000 " frameborder="0 " width="100% " height="569 " allowfullscreen="true " mozallowfullscreen="true " webkitallowfullscreen="true "></iframe>
+
+
+## Contributors
+
+- Chris Oung 
+- Etienne Sotelo
+- Leonard Gomez
+- Torin Weatherbee
+
