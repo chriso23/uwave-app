@@ -1,5 +1,3 @@
-# UWaveRadio Android App
-
 *A mobile strategy to increase student engagement, retention, and academic achievement at the University of Washington Bothell.*
 
 ## Summary
