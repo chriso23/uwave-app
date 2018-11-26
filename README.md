@@ -2,7 +2,7 @@
 
 *A mobile strategy to increase student engagement, retention, and academic achievement at the University of Washington Bothell.*
 
-Live site: [https://chrisoung1.github.io/uwave-android-app](https://chrisoung1.github.io/uwave-android-app)
+Live site: [https://chrisoung.github.io/uwave-android-app](https://chrisoung1.github.io/uwave-android-app)
 
 ## Summary
 
@@ -14,7 +14,7 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 ## Project Description
 
 - Client: [UWave Radio](uwave.fm)
-- Source code: [GitHub Repository](https://github.com/chrisoung1/uwave-android-app)
+- Source code: [GitHub Repository](https://github.com/chrisoung/uwave-android-app)
 - Duration: January 2018–June 2018
 - Deliverable: Functional Android Prototype
 - Technologies: Git, GitHub, Firebase, Android Studio, Java, XML, JavaScript, JSON, and REST API
