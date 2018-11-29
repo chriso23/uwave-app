@@ -2,7 +2,7 @@
 
 *A mobile strategy to increase student engagement, retention, and academic achievement at the University of Washington Bothell.*
 
-Live site: [https://chrisoung.github.io/uwave-android-app](https://chrisoung.github.io/uwave-android-app)
+**[Live site](https://chrisoung.github.io/uwave-android-app)**
 
 ## Summary
 
