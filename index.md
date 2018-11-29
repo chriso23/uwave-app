@@ -1,7 +1,3 @@
-*A mobile strategy to increase student engagement, retention, and academic achievement at the University of Washington Bothell.*
-
-**[Live site](https://chrisoung.github.io/uwave-android-app)**
-
 ## Summary
 
 This project was a six-month effort to help the [UWave Radio](uwave.fm) organization—a local radio station located at the University of Washington Bothell—reach a wider audience of listeners and participants at the UW Bothell campus. 
