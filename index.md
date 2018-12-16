@@ -1,6 +1,6 @@
 ## Summary
 
-This project was a six-month effort to help the [UWave Radio](uwave.fm) organization—a local radio station located at the University of Washington Bothell—reach a wider audience of listeners and participants at the UW Bothell campus. 
+Built a mobile app to help the [UWave Radio](uwave.fm) organization—a local radio station located at the University of Washington Bothell—reach a wider audience of listeners and participants at the UW Bothell campus. 
 
 The UWaveRadio app is an android prototype that aims at strengthening social engagement within a higher education community. The app encompasses unique music and talk show streaming services inspired by a variety of user research data. Ultimately, the app is designed to allow any UW student, faculty, and staff member to contribute to UWave Radio's expanding content library, as well as the promotion of local musicians, bands, and community events.
 
@@ -8,7 +8,7 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 ## Project Description
 
 - Client: [UWave Radio](uwave.fm)
-- Timeline: January 2018–June 2018
+- Timeline: November 2017–June 2018
 - Deliverable: Functional Android Prototype
 - Technologies: Git, GitHub, Firebase, Android Studio, Java, XML, JavaScript, JSON, and REST API
 
