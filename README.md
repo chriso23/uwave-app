@@ -14,6 +14,7 @@ The UWaveRadio app is an android prototype that aims at strengthening social eng
 ## Project Description
 
 - Client: [UWave Radio](uwave.fm)
+- Source code: [GitHub repository](https://github.com/chrisoung/uwave-android-app/tree/gh-pages)
 - Timeline: November 2017–June 2018
 - Deliverable: Functional Android Prototype
 - Technologies: Git, GitHub, Firebase, Android Studio, Java, XML, JavaScript, JSON, and REST API
